@@ -2,6 +2,8 @@
 
 WhiteHouseAR is an augmented reality application developed as a project for the Computer Graphics course in 2019.
 
+Apk file is avaliable on the following link: https://drive.google.com/file/d/1lUsutE-YNqyU9CvtrlbQSA3dA3ITURXo/view?usp=sharing
+
 ## Model
 The model of the White House is designed in Blender. The most famous part of the White House - the Residence - was modeled. The original model also featured a garden around the White House, which was omitted in the application itself to simplify the model. 
 

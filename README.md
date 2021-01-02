@@ -24,4 +24,4 @@ To use the application your device must be one of the recommended devices as sta
 After downloading and installing the application, on the first run you will need to allow the application to use your camera and storage.
 You will see camera area with icons (as shown below) and you just need to scan the marker, the image you can find in the repository, to see the 3D model and points of interest.
 
-<img src = "https://scontent.fsjj1-1.fna.fbcdn.net/v/t1.15752-9/134964651_473087440754186_5956931113901969381_n.jpg?_nc_cat=106&ccb=2&_nc_sid=ae9488&_nc_ohc=xl9el5ngqgQAX-RMbel&_nc_ht=scontent.fsjj1-1.fna&oh=7c561dc8671d7b3770075214a83faa7b&oe=6016C16B" alt = "WhiteHouseAR">
+<img src = "https://scontent.fsjj1-1.fna.fbcdn.net/v/t1.15752-9/135313515_206611311119927_1351212033707220294_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=XDIa1w7g8SAAX_ucdgL&_nc_ht=scontent.fsjj1-1.fna&oh=e4c7c7d2eb0a82b1ae84c251fb2b1d6a&oe=6015F793" alt = "WhiteHouseAR">
